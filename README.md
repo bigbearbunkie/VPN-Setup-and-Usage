@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" alt="Proton VPN logo"/>
+<img src="https://github.com/bigbearbunkie/VPN-Setup-and-Usage/blob/main/IMG_6567.jpeg" height="20%" width="40%" alt="Proton VPN logo"/>
 </p>
 
 <h1>VPN Setup and Usage</h1>
