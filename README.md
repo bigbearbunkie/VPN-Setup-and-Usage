@@ -40,10 +40,20 @@ Step 2: Your VM's IP Info
 <p> + Take note of your VM's IP information in a text file BEFORE you connect to the VPN so that you can compare it after</p>
 
 <p>
+<img src="https://github.com/bigbearbunkie/VPN-Setup-and-Usage/blob/main/prevpnip.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
+<p>
 Step 3: Log in to Proton VPN 
 </p>
 
 <p> + On your VM, download Proton VPN, sign in, and pick a server (preferably one in a different country)</p>
+
+<p>
+<img src="https://github.com/bigbearbunkie/VPN-Setup-and-Usage/blob/main/vpnscreeshot.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
 
 <p>
 Step 4: Observe the Changes
@@ -53,27 +63,19 @@ Step 4: Observe the Changes
 
 <p> + If it shows the same IP information, refresh the page, and it should give you a completely new set of info for your VM as well as a new location</p>
 
+<p>
+<img src="https://github.com/bigbearbunkie/VPN-Setup-and-Usage/blob/main/postvpnip.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+
 <p> + Take note of the new IP information in your text file and compare it to the previous info. It should all be different. This is because the VPN makes it appear as though you are operating from a server located in whatever country you chose</p>
 
 <p> + You can check websites such as Netflix and Google to see what they look like from the location you chose</p>
 
-
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p>
+<img src="https://github.com/bigbearbunkie/VPN-Setup-and-Usage/blob/main/postvpnipb.png?raw=true" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 </p>
 <br />
